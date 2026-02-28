@@ -37,4 +37,4 @@ Please review the following resources:
 NOTE: Section 1 people should only use Section 1 Link, and Section 2 should only use Section 2 Link. Both the contests contain the same problems! 
 
 - [Section 1 Homework Link](www.hackerrank.com/leetcode-bootcamp-spring-2026-section-1-hw-1)
-- Section 2 Homework Link
+- [Section 2 Homework Link](www.hackerrank.com/leetcode-bootcamp-spring-2026-section-2-hw-1)
