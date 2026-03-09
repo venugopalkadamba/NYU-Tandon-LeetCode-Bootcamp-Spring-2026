@@ -1,5 +1,5 @@
 
-# Week 1: Hashing and Linked Lists
+# Week 3: Hashing and Linked Lists
 
 Welcome to the third week of our LeetCode Bootcamp. This week, we will dive into Linked Lists and Hash Maps, introducing powerful problem-solving patterns.
 
